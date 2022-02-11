@@ -1,4 +1,3 @@
-import { toHaveAccessibleDescription } from "@testing-library/jest-dom/dist/matchers";
 import React from "react";
 
 import SHOPDATA from "./shop.data";
